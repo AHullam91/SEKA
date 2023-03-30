@@ -1,0 +1,78 @@
+body {
+    background-color: peachpuff;
+   padding-top: 75px;
+   font-family: century gothic;
+   font-size: 20px;
+   text-align: justify;
+   line-height: 2.5;
+   margin: 35px;   
+    
+}
+#FB_icon {
+    width: 25px;
+    
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.sor{
+    margin-top: 25px;
+}
+
+#kiskepek img{
+    height: 150px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px #333;
+}
+
+#kiskepek img:hover{
+    box-shadow: 0 0 0 #333;
+}
+
+#nagykep table{
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#nagykep img{
+    height: 400px;
+}
+
+.cim{
+    font-size: 1.6 em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#nagykep a{
+    color: #dfbe9d;
+    text-decoration: none;
+}
+
+.fk{
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #dfbe9d;
+    width: 95%;
+    margin: 0 auto;
+    color: white;
+}
+
+a{
+    color: #a0725b;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+a:hover, a:active{
+    color: white;
+}
+
+#uzen {
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+}
